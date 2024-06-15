@@ -1,0 +1,11 @@
+Challenges Faced
+Initial Setup and Data Loading:
+
+Loading and displaying JSON data in a React table required careful handling of asynchronous data fetching and state updates.
+Ensuring that the data was correctly formatted and displayed in a user-friendly manner.
+
+Backend Integration:
+
+Setting up the Fastapi backend and ensuring it correctly handled CRUD operations was initially challenging.
+Configuring CORS to allow the React frontend to communicate with the Flask backend took some troubleshooting.
+
